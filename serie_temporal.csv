@@ -1,0 +1,5 @@
+Meses,NaoPossuiSMSAlerta,PossuiSMSAlerta,NaoPossuiFaturaPorEmail,PossuiFaturaPorEmail
+1-6,0.81,0.98,0.75,0.95
+7-9,2.35,2.52,2.05,2.75
+10-11,2.71,3.09,2.45,3.14
+12,1.74,2.08,1.62,1.99
